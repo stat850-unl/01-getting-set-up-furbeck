@@ -1,0 +1,7 @@
+Hello,
+
+I am Rebecca Furbeck, a Ph.D. candidate studying Meat and Muscle Biology (Animal Science). My research is centered on improving the sustainable production of foods by avoiding food waste due to microbial spoilage. Basically, I do bacteria CSI (16s rDNA, WGS) on spoiled meats to figure out which bacteria are responsible for the damage, and what genetic vulnerabilities they have to develop novel shelf-life extension strategies. When I’m not isolating DNA or analyzing sequences, you can probably find me in my hard hat in the Loeffel Meat Lab teaching sausage manufacturing for our undergraduate/industry short courses (we have new batches of jalapeño popper brats and smoked sausage if you’re hungry!). 
+
+Prior to UNL, I studied at Iowa State University, majoring in food science, and minoring in applied statistics (where I was indoctrinated in the ways of the tidyverse and completed design/analysis/regression coursework). During my studies I had a co-op with Hormel Foods, where I fell in love with meat processing and bioinformatics, while writing SAS scripts for the sensory evaluation team and R scripts for the microbiologists.
+
+That all leads up to my current step-up/knowledge: a Mac-user who really likes R, has limited background in SAS, and dabbles in Python for bioinformatics. I’m really looking forward to getting better habits regarding git/GitHub in this course and playing with some fun datasets. Organization and visualization are welcome tools for fighting microbes.

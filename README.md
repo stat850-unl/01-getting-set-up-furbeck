@@ -12,9 +12,9 @@ Steps:
 
 2. Add README.md to your repository if it is not already there. Make some change to README.md and commit your changes. CHECK
 
-3. Create a text file in RStudio and name it "Introduction". Write a couple of paragraphs introducing yourself to the class and describing your interests, computing experience, and/or other hobbies.
+3. Create a text file in RStudio and name it "Introduction". Write a couple of paragraphs introducing yourself to the class and describing your interests, computing experience, and/or other hobbies.CHECK
 
-4. Add Introduction to your repository (git add, or use the graphical interface).
+4. Add Introduction to your repository (git add, or use the graphical interface).CHECK
 
 5. Commit your changes to your local git repository (e.g. the git repo on your machine)
 
